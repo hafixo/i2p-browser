@@ -12,7 +12,7 @@
     "eslint-plugin-file-header": "0.0.1",
     "eslint-plugin-flowtype": "3.6.0",
     "eslint-plugin-html": "5.0.3",
-    "eslint-plugin-import": "2.16.0",
+    "eslint-plugin-import": "2.23.4",
     "eslint-plugin-jest": "22.4.1",
     "eslint-plugin-jsx-a11y": "6.2.1",
     "eslint-plugin-mozilla": "file:tools/lint/eslint/eslint-plugin-mozilla",
