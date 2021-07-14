@@ -68,7 +68,7 @@
     "sass-lint": "1.13.1",
     "shelljs": "0.8.3",
     "sinon": "7.3.2",
-    "webpack": "4.30.0",
+    "webpack": "4.46.0",
     "webpack-cli": "3.3.1",
     "yamscripts": "0.1.0"
   },
